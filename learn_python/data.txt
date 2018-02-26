@@ -1,0 +1,3 @@
+amd rx570 4g
+amd rx570 8g
+nvidia gtx1080 8g
