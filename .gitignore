@@ -12,3 +12,5 @@ datasets/words
 datasets/flowers
 datasets/spam
 env/
+metastore_db/
+derby.log
